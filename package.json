@@ -1,0 +1,22 @@
+{
+  "name": "05-meta-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metanitesh/metaAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metanitesh/metaAPI/issues"
+  },
+  "homepage": "https://github.com/metanitesh/metaAPI#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
